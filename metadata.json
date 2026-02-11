@@ -1,0 +1,5 @@
+{
+  "name": "EcoPulse",
+  "description": "An AI-powered dashboard for real-time campus energy monitoring, predictive maintenance, and gamified sustainability tracking.",
+  "requestFramePermissions": []
+}
